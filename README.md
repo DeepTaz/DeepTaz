@@ -6,24 +6,19 @@ Hi! I'm Deep Taz, and you can find me under the account name "Taz". I work as a 
 
 Do you like the web?
 
-I have grown up with the growth of "web". I've developed various mash-up services, user-generated content systems, web APIs for mobile apps, and practical CLI tools. Most are like junk, junk, junk... But a few have been utilized by people and have even changed some lives. I'll keep contributing to web.
+The web is freaking amazing, isn't it? It's like this whole universe of information and connection at your fingertips! Just think about it - you can learn anything, connect with anyone, build anything you can imagine, all through this invisible network of wires and code.
+
 
 Just for fun.
 
-Didn't you hear those words somewhere?
 
-I want to be like that teenager who's just starting out with a guitar, eager to own one. He saves up, buys a new acoustic guitar, and then plays Led Zeppelin's "Tangerine" in a park on a mountain top until his hands ache. Just for fun.
-<!--
-**DeepTaz/DeepTaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Microservice with the frame work Honojs
+- 🌱 I’m currently learning Javascript,Java and python.
 - 👯 I’m looking to collaborate on ...
+<--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- -->
