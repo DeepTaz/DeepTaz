@@ -2,7 +2,7 @@
 
 Hi! I'm Deep Taz, and you can find me under the account name "Taz". I work as a developer, creator.
 
-``I love "web".
+``I love "web".``
 
 Do you like the web?
 
